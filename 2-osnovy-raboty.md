@@ -7,7 +7,7 @@
     console.log(now)
     console.log(now)
 
-`node index.js` - запускаем скрипт в консоли *можно без расширения, index*.
+`node index.js` - запускаем скрипт в консоли *(можно без расширения, index)*.
 
 ## Встроенные модули Node.js
 
