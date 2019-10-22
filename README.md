@@ -1,6 +1,10 @@
 # Node.js
 Руководство по Node.js
 
+Node.js &ndash; серверная версия языка JavaScript, позволяет создавать веб-сервера, сайты и обрабатывать файлы на диске *(заменяет язык PHP и веб-сервер Apache)*.
+
+Node.js &ndash; 
+
 ## Команды Node.js
 * `node -v` &ndash; проверить версию Node.js
 * `npm -v` &ndash; проверить версию npm
