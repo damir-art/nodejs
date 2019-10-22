@@ -12,3 +12,4 @@ Node.js &ndash; JavaScript движок V8 Chrome. Из браузера Chrome 
 ## Команды консоли
 * `cd name_dir` + `tab` &ndash; автозаполнение названия папки
 * `ls` &ndash; посмотреть список папок в текущей
+* `clear` &ndash; очистить терминал
