@@ -10,3 +10,13 @@
 `node index.js` - запускаем скрипт в консоли.
 
 ## Встроенные модули Node.js
+
+    // Подключаем модуль работы с файлами
+    const fs = require('fs')
+
+    const data = 'Hello World'
+
+    // Создаём файл
+    fs.writeFileSync('nodejs.txt', data)
+
+`node index.js` - запускаем скрипт в консоли.
