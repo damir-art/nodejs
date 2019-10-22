@@ -22,5 +22,5 @@
 `node index.js` - запускаем скрипт в консоли.
 
     // Читаем файл
-    const readFile = fs.readFileSync('nodejs.txt', {encoding: 'utf-8'})
-    console.log(readFile)
+    const data = fs.readFileSync('nodejs.txt', {encoding: 'utf-8'})
+    console.log(data)
