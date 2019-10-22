@@ -9,7 +9,7 @@ Node.js &ndash; JavaScript движок V8 Chrome. Из браузера Chrome 
 * `node -v` &ndash; проверить версию Node.js
 * `npm -v` &ndash; проверить версию npm
 
-## Команды консоли
+## Команды консоли `bash`
 * `cd name_dir` + `tab` &ndash; автозаполнение названия папки
 * `ls` &ndash; посмотреть список папок и файлов в текущей
 * `clear` &ndash; очистить терминал
