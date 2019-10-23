@@ -24,3 +24,11 @@
     // Читаем файл
     const data = fs.readFileSync('nodejs.txt', {encoding: 'utf-8'})
     console.log(data)
+
+## Глобальные переменные Node.js
+
+    // Путь до текущей папке
+    console.log(__dirname)
+    
+    // Название текущего файла
+    console.log(__filename)
