@@ -14,6 +14,6 @@
 * keywords: Enter // или ключевые слова через запятую
 * author: Enter // или имя автора приложения
 * license: Enter // или другой тип лицензии
-* yes
+* Enter
 
 В папке появится файл `package.json`.
