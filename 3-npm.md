@@ -19,5 +19,5 @@
 В папке появится файл `package.json`.
 
 ## Зависимости проекта
-Устанавдиваем веб-сервер https://www.npmjs.com/package/express `npm i express`
+Устанавливаем веб-сервер https://www.npmjs.com/package/express `npm i express`
 * `npm install express --save` --save ставится по-умолчанию, говорит о том что пакет нужно сохранить как зависимость для приложения, без него, приложение работать не будет.
